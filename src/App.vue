@@ -20,13 +20,13 @@
                           <router-link to="/"><i class="fa fa-home"></i><b>HOME</b></router-link>
                         </li>
                         <li aria-haspopup="true">
+                          <router-link to="/hotline"><i class="fa fa-phone"></i><b>HOTLINE CORONA</b></router-link>
+                        </li>
+                        <li aria-haspopup="true">
+                          <router-link to="/news"><i class="fa fa-newspaper"></i><b>BERITA TERKINI</b></router-link>
+                        </li>
+                        <li aria-haspopup="true">
                           <router-link to="/kontak"><i class="fa fa-envelope"></i><b>KONTAK</b></router-link>
-                        </li>
-                        <li aria-haspopup="true">
-                          <router-link to="/hotline"><i class="fa fa-phone"></i><b>HOTLINE</b></router-link>
-                        </li>
-                        <li aria-haspopup="true">
-                          <router-link to="/news"><i class="fa fa-newspaper"></i><b>BERITA</b></router-link>
                         </li>
                       </ul>
                     </nav>
@@ -51,6 +51,12 @@
                         <ul class="horizontalMenu-list">
                           <li aria-haspopup="true">
                             <router-link to="/"><b>HOME</b></router-link>
+                          </li>
+                          <li aria-haspopup="true">
+                            <router-link to="/hotline"><b>HOTLINE CORONA</b></router-link>
+                          </li>
+                          <li aria-haspopup="true">
+                            <router-link to="/news"><b>BERITA TERKINI</b></router-link>
                           </li>
                           <li aria-haspopup="true">
                             <router-link to="/kontak"><b>KONTAK</b></router-link>
